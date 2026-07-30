@@ -33,7 +33,7 @@ could explain to someone outside this class.
 
 [See my work on GitHub](https://github.com/YOUR-USERNAME)
 
-``{r, echo=FALSE}
+```{r, echo=FALSE}
 
 hist(
   mtcars$mpg,
