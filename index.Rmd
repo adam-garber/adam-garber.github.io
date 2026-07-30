@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Welcome 
 
 Hi! My name is Adam Garber. I am a teacher at Santa Barbara City College.
-I am interested in YOUR INTERESTS.
+I am interested in data science... [ADD Bio paragraph here]
 
 ## A question I care about
 
@@ -31,7 +31,7 @@ to you. Explain why it is interesting or important.
 Write two or three sentences about one idea or skill from PSY 150 that you
 could explain to someone outside this class.
 
-[See my work on GitHub](https://github.com/YOUR-USERNAME)
+[See my work on GitHub](https://adam-garber.github.io/)
 
 ```{r, echo=FALSE}
 
