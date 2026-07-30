@@ -16,9 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-## Welcome
+## Welcome 
 
-Hi! My name is YOUR NAME. I am a student at Santa Barbara City College.
+Hi! My name is Adam Garber. I am a teacher at Santa Barbara City College.
 I am interested in YOUR INTERESTS.
 
 ## A question I care about
